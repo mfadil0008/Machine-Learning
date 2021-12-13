@@ -1,5 +1,6 @@
 # Machine-Learning
 Ensemble machine learning bagging regression
+
 Abalone data set
 
 # Predict age of abalone using bagging method
@@ -23,8 +24,8 @@ Name / Data Type / Measurement Unit / Description
 * x8 : Shell weight / continuous / grams / after being dried
 * y : Rings / integer / -- / +1.5 gives the age in years
 
-import library pandas
-import library numpy
-import library sklearn
-import library seaborn
-import library pylab
+1 import library pandas
+2 import library numpy
+3 import library sklearn
+4 import library seaborn
+5 import library pylab
